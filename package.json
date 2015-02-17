@@ -1,0 +1,28 @@
+{
+  "name": "after-delay",
+  "version": "1.0.0",
+  "description": "Runs code after a delay.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test | faucet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/callumacrae/after-delay"
+  },
+  "keywords": [
+    "time",
+    "delay",
+    "count"
+  ],
+  "author": "Callum Macrae <callum@macr.ae>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/callumacrae/after-delay/issues"
+  },
+  "homepage": "https://github.com/callumacrae/after-delay",
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "tape": "^3.5.0"
+  }
+}
